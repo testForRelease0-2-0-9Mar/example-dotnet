@@ -23,5 +23,5 @@ brew install srcclr
 srcclr activate
 git clone https://github.com/srcclr/example-dotnet
 msbuild example-dotnet/
-srcclr scan example-dotnet/ testchange12
+srcclr scan example-dotnet/ testchange123
 ```
